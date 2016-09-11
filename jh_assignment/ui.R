@@ -2,7 +2,7 @@ library(shiny)
 library(data.table)
 
 shinyUI(fluidPage(
-  title = "Diamonds Explorer",
+  title = "Plotting and linear prediction of PM2.5 amount emmited in a city of Baltimore",
   fluidRow(
     column(5,
            h4("Diamonds Explorer"),
